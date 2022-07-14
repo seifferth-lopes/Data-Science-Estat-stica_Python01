@@ -1,2 +1,2 @@
-# Data-Science-Estat-stica_Python01
+# Estatística com Python parte 1: frequências e medidas
 Módulo III do curso de formação em Ciência de Dados da Alura.
